@@ -1,0 +1,35 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-07-28T09:41:00.207147",
+    "startedAt": "2023-07-28T09:40:58.973230",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "host": "KHI-AI-WALEED",
+    "username": "Waleed.Kaimkhani",
+    "executable": "D:\\workspace\\Ml-ops\\.venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2001.0,
+        "min": 0.0,
+        "max": 2001.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2001.0,
+            "min": 0.0,
+            "max": 2001.0
+        }
+    ],
+    "disk": {
+        "total": 320.68944931030273,
+        "used": 27.574230194091797
+    },
+    "memory": {
+        "total": 15.899009704589844
+    }
+}
